@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://findapp.store/wp-content/uploads/2023/03/7e8a74c220162920.jpg',
-      name: 'ChenZhaoYu',
+      name: 'FindApp',
       description: '<a href="https://findapp.store" class="text-blue-500" target="_blank" >FindApp.Store</a>',
     },
   }
