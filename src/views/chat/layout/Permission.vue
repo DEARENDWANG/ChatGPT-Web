@@ -59,7 +59,8 @@ function handlePress(event: KeyboardEvent) {
           <h2 class="text-2xl font-bold text-center text-slate-800 dark:text-neutral-200">
             请输入口令
           </h2>
-					<p style="color:red;">相关API已欠费，等待续费中ing...</p>
+					<p style="color:red;text-align:center;">相关API已欠费，等待续费中ing...如果您觉得网站对您有帮助，也可进行
+					<a href="https://findapp.store/wp-content/uploads/2023/02/c4b140c120151054-300x295.jpg"> 赞助 </a></p>
           <p class="text-base text-center text-slate-500 dark:text-slate-500">
             {{ $t('common.unauthorizedTips') }}
           </p>
