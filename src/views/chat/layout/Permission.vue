@@ -59,6 +59,7 @@ function handlePress(event: KeyboardEvent) {
           <h2 class="text-2xl font-bold text-center text-slate-800 dark:text-neutral-200">
             请输入口令
           </h2>
+					<p style="color:red;">相关API已欠费，等待续费中ing...</p>
           <p class="text-base text-center text-slate-500 dark:text-slate-500">
             {{ $t('common.unauthorizedTips') }}
           </p>
