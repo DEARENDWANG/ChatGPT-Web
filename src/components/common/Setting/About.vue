@@ -50,7 +50,7 @@ onMounted(() => {
           ，免费且基于 MIT 协议，没有任何形式的付费行为！
         </p>
         <p>
-          如果您觉得此项目对你有帮助，请给予一点<a href="https://findapp.store/wp-content/uploads/2023/02/c4b140c120151054-300x295.jpg" target="_blank" style="color;red;">赞助</a>，谢谢！
+          如果您觉得此项目对你有帮助，请给予一点<a href="https://findapp.store/wp-content/uploads/2023/02/c4b140c120151054-300x295.jpg" target="_blank">赞助</a>，谢谢！
         </p>
       </div>
       <p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
